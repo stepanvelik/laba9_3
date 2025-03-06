@@ -14,18 +14,22 @@
     padding: 10px 20px;
     border: none;
     cursor: pointer;
+    border-radius: 5px;
   }
   .button1 {
     background-color: #007bff; /* Синий */
     color: white;
+    border-radius: 5px;
   }
   .button2 {
     background-color: #28a745; /* Зеленый */
     color: white;
+    border-radius: 5px;
   }
   .button3 {
     background-color: #6c757d; /* Серый */
     color: white;
+    border-radius: 5px;
   }
 
 .form1{
