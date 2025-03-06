@@ -1,0 +1,33 @@
+
+.dark-gray-bg {
+    background-color: #333; 
+    color: white; /* Белый текст для контраста */
+  }
+  .light-gray-bg {
+    background-color: rgba(200, 200, 200, 0.5); /* Светло-прозрачный серый */
+  }
+  .white-bg {
+    background-color: white; /* Белый */
+  }
+  .button1, .button2, .button3 {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  .button1 {
+    background-color: #007bff; /* Синий */
+    color: white;
+  }
+  .button2 {
+    background-color: #28a745; /* Зеленый */
+    color: white;
+  }
+  .button3 {
+    background-color: #6c757d; /* Серый */
+    color: white;
+  }
+
+.form1{
+    border-radius: 5px;
+}
